@@ -57,7 +57,7 @@ This project provides curated examples that demonstrate how to implement each of
 ## Technologies Used
 
 - **Ruby** - Version 3.x
-- **Rails** - Version 7.x
+- **Rails** - Version 8.x
 - **RSpec** - For testing the curated code
 - **Faker** - For generating dummy data
 ---
@@ -66,7 +66,7 @@ This project provides curated examples that demonstrate how to implement each of
 
 ### Prerequisites
 
-- Ruby 3.x and Rails 7.x installed
+- Ruby 3.x and Rails 8.x installed
 - SQLite 
 
 ### Installation Steps
